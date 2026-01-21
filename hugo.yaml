@@ -79,10 +79,14 @@ params:
     icon: ""
     iconHeight: 35
 
-  # 社交链接（可以根据需要修改）
+  # 社交链接
   socialIcons:
     - name: github
       url: "https://github.com/Afeng01"
+    - name: reddit
+      url: "https://www.reddit.com/user/Legal-Recording-7850/"
+    - name: telegram
+      url: "https://t.me/xiaoxiaocioo"
 
   cover:
     hidden: false
